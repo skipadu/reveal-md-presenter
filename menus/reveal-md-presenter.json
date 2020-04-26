@@ -2,8 +2,8 @@
   "context-menu": {
     ".CodeMirror": [
       {
-        "label": "Toggle reveal-md-presenter",
-        "command": "reveal-md-presenter:toggle"
+        "label": "Presenter Mode",
+        "command": "reveal-md-presenter:show"
       }
     ]
   },
@@ -15,8 +15,8 @@
           "label": "reveal-md-presenter",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "reveal-md-presenter:toggle"
+              "label": "Presenter Mode",
+              "command": "reveal-md-presenter:show"
             }
           ]
         }
