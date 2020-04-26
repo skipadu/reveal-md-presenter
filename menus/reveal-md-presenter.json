@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Toggle reveal-md-presenter",
+        "command": "reveal-md-presenter:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "reveal-md-presenter",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "reveal-md-presenter:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
