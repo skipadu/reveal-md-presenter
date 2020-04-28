@@ -3,13 +3,14 @@
   "main": "./lib/reveal-md-presenter",
   "version": "0.0.0",
   "description": "A short description of your package",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/skipadu/reveal-md-presenter",
   "license": "MIT",
   "engines": {
     "inkdrop": "^4.x"
   },
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^8.2.4"
   }
 }
