@@ -9,7 +9,8 @@
   "engines": {
     "inkdrop": "^4.x"
   },
-  "dependencies": {
-    "react-new-window": "^0.1.2"
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^8.2.4"
   }
 }
