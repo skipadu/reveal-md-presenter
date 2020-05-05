@@ -17,6 +17,10 @@
             {
               "label": "Presenter Mode",
               "command": "reveal-md-presenter:show"
+            },
+            {
+              "label": "Help",
+              "command": "reveal-md-presenter:help"
             }
           ]
         }
