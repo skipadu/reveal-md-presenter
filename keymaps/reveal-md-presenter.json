@@ -1,5 +1,5 @@
 {
   "body": {
-    "ctrl-alt-o": "reveal-md-presenter:show"
+    "ctrl-alt-p": "reveal-md-presenter:show"
   }
 }
