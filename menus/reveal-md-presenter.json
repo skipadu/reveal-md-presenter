@@ -19,7 +19,7 @@
               "command": "reveal-md-presenter:show"
             },
             {
-              "label": "Copy command",
+              "label": "Copy start command",
               "command": "reveal-md-presenter:copy"
             },
             {
