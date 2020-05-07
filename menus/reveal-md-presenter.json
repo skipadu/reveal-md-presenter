@@ -19,6 +19,10 @@
               "command": "reveal-md-presenter:show"
             },
             {
+              "label": "Copy command",
+              "command": "reveal-md-presenter:copy"
+            },
+            {
               "label": "Help",
               "command": "reveal-md-presenter:help"
             }
