@@ -2,9 +2,12 @@
   "name": "reveal-md-presenter",
   "main": "./lib/reveal-md-presenter",
   "version": "0.0.0",
-  "description": "A short description of your package",
-  "keywords": [],
+  "description": "A plugin for Inkdrop, showing reveal.js presentation ",
+  "keywords": ["reveal-md", "inkdrop", "presenter", "presentation"],
   "repository": "https://github.com/skipadu/reveal-md-presenter",
+  "author": {
+    "name": "Sami Korpela"
+  },
   "license": "MIT",
   "engines": {
     "inkdrop": "^4.x"
