@@ -57,12 +57,12 @@ from the plugin).
 
 ## Screenshots
 
-![Horizontal slide](/docs/horizontal-slide.png?raw=true "Horizontal slide")
+![Horizontal slide](https://raw.githubusercontent.com/skipadu/reveal-md-presenter/master/docs/horizontal-slide.png "Horizontal slide")
 
-![Vertical slide](/docs/vertical-slide.png?raw=true "Vertical slide")
+![Vertical slide](https://raw.githubusercontent.com/skipadu/reveal-md-presenter/master/docs/vertical-slide.png "Vertical slide")
 
-![Speaker notes](/docs/speaker-notes.png?raw=true "Speaker notes")
+![Speaker notes](https://raw.githubusercontent.com/skipadu/reveal-md-presenter/master/docs/speaker-notes.png "Speaker notes")
 
 ## Licensing
 
-MIT [LICENSE](/LICENSE)
+MIT [LICENSE](https://raw.githubusercontent.com/skipadu/reveal-md-presenter/master/LICENSE)
