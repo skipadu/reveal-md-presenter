@@ -11,14 +11,25 @@ reveal-md-presenter is a plugin for [Inkdrop](https://www.inkdrop.app/)
 ipm install reveal-md-presenter
 ```
 
-## Requirements
+## Next steps
 
+
+### 1.) Install reveal-md
 You need to install [reveal-md](https://github.com/webpro/reveal-md) to your system
 
 Install `reveal-md` globally
 ```
 npm install -g reveal-md
 ```
+
+### 2.) Start reveal-md
+Then you will need to start the `reveal-md` with the generated start command. You can get it copied to your clipboard by selecting the **"Copy start command"** from the plugins menu or by pressing the shortcut <kbd>Ctrl</kbd>+<kbd>Opt</kbd><kbd>C</kbd>.
+
+Paste the start command to your terminal and start it.
+
+### 3.) Start making the presentation
+
+Now you are ready to write your presentation in the Inkdrop.
 
 ## Quick quide
 
