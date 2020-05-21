@@ -17,7 +17,10 @@
   "engines": {
     "inkdrop": "^4.x"
   },
-  "dependencies": {},
+  "dependencies": {
+    "command-exists": "^1.2.9",
+    "fix-path": "^3.0.0"
+  },
   "devDependencies": {
     "electron": "^8.2.4"
   }
