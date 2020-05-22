@@ -8,7 +8,7 @@ This project is not adhering the [Semantic Versioning](https://semver.org/spec/v
 
 ## v0.3.0 - 2020-05-22
 
-## Added
+### Added
 * `reveal-md` is now started automatically!
     * On Windows 10 there are some problems, so that it should still be started manually
     * macOS user can also choose to start manually
