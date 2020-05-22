@@ -22,12 +22,16 @@ Install `reveal-md` globally
 npm install -g reveal-md
 ```
 
-### 2.) Start reveal-md
-Then you will need to start the `reveal-md` with the generated start command. You can get it copied to your clipboard by selecting the **"Copy start command"** from the plugins menu or by pressing the shortcut <kbd>Ctrl</kbd>+<kbd>Opt</kbd><kbd>C</kbd>.
+### 1b.) Manual start of reveal-md
+If you are using Windows, you need to start `reveal-md` manually. Or if you are using macOS and want to start it manually for some reason.
 
-Paste the start command to your terminal and start it.
+1. First enable manual start from the plugin's config.
 
-### 3.) Start making the presentation
+2. Then you will need to start the `reveal-md` with the generated start command. You can get it copied to your clipboard by selecting the **"Copy start command"** from the plugins menu or by pressing the shortcut <kbd>Ctrl</kbd>+<kbd>Opt</kbd><kbd>C</kbd>.
+
+3. Paste the start command to your terminal and start it.
+
+### 2.) Start making the presentation
 
 Now you are ready to write your presentation in the Inkdrop.
 
