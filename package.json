@@ -1,7 +1,7 @@
 {
   "name": "reveal-md-presenter",
   "main": "./lib/reveal-md-presenter",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A plugin for Inkdrop, showing reveal.js presentation ",
   "keywords": [
     "reveal-md",
