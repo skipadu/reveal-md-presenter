@@ -2,9 +2,14 @@
 
 This project is not adhering the [Semantic Versioning](https://semver.org/spec/v2.0.0.html) at this time. It will start to follow it when v1.0.0 is released.
 
-## [Unreleased](https://github.com/skipadu/reveal-md-presenter/compare/v0.3.0...HEAD)
+## [Unreleased](https://github.com/skipadu/reveal-md-presenter/compare/v0.4.0...HEAD)
 * Changes that are not yet released
 --- 
+
+## v0.4.0 - 2020-05-26
+
+### Fixed
+* Speaker notes should now hide correctly from preview
 
 ## v0.3.0 - 2020-05-22
 
