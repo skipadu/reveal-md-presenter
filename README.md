@@ -17,9 +17,9 @@ ipm install reveal-md-presenter
 ### 1.) Install reveal-md
 You need to install [reveal-md](https://github.com/webpro/reveal-md) to your system
 
-Install `reveal-md` globally
+Install `reveal-md` globally (You should install version before v4 as it currently has broken speaker notes).
 ```
-npm install -g reveal-md
+npm install -g reveal-md@3.5.0
 ```
 
 ### 1b.) Manual start of reveal-md
