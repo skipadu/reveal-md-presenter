@@ -1,5 +1,7 @@
 # reveal-md-presenter
 
+**No longer updated and therefore archieved.**
+
 reveal-md-presenter is a plugin for [Inkdrop](https://www.inkdrop.app/)
 
 - You can create and show your presentation straight from the Inkdrop!
